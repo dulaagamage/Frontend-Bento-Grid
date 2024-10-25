@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution Repository URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution Repository URL: [Click here](https://github.com/dulaagamage/Frontend-Bento-Grid)
+- Live Site URL: [Click here](https://dula-bento-grid.netlify.app/)
 
 ## My process
 
