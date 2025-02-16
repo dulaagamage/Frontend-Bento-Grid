@@ -2,7 +2,7 @@
 
 This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## 📑Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -15,9 +15,9 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## 🔍Overview
 
-### The challenge
+### 🎯The challenge
 
 Your challenge is to build out this bento grid and get it looking as close to the design as possible.
 
@@ -27,18 +27,18 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 
-### Screenshot
+### 📸Screenshot
 
 ![](./design/desktop-design.jpg)
 
-### Links
+### 🔗Links
 
 - Solution Repository URL: [Click here](https://github.com/dulaagamage/Frontend-Bento-Grid)
 - Live Site URL: [Click here](https://dula-bento-grid.netlify.app/)
 
-## My process
+## ⚙️My process
 
-### Built with
+### 🛠Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -46,11 +46,11 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
+### 📚What I learned
 
 I learned how to use CSS Grid effectively to build responsive layouts. I also became more comfortable with mobile-first design, ensuring the layout adapts seamlessly across different screen sizes.
 
-### Continued development
+### 🚀Continued development
 
 In future projects, I want to continue refining my skills in:
 
@@ -58,11 +58,11 @@ Optimizing CSS Grid for more complex layouts
 Using more advanced CSS properties like clamp() for responsive typography
 Improving accessibility with better semantic HTML
 
-### Useful resources
+### 🔎Useful resources
 
 - [The Best Grid Memo](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me as reminder for grid.
 
-## Author
+## 👩‍💻Author
 
 - Frontend Mentor - [@dulaagamage](https://www.frontendmentor.io/profile/dulaagamage)
 - GitHub - [@dulaagamage](https://github.com/dulaagamage)
